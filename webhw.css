@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(245, 245, 245);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+.blog-header-logo{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 2.25rem;
+}
+
+.text-center {
+    text-align: center!important;
+}
+
+.blog-header {
+    line-height: 1;
+
+}
+
+h1 {
+    color:black;
+}
+
+h2 {
+    color:black;
+}
+
